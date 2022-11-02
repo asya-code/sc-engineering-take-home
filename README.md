@@ -15,7 +15,7 @@
 <details open="open">
 <summary>Table of Contents</summary>
 
-- [About](#about)
+- [Standard Crypto Engineering Take-Home Challenge](#challenge)
 - [Getting Started](#getting-started)
   - [Installation](#installation)
   - [Launch your server](#launch-your-server)
@@ -24,12 +24,8 @@
 
 ---
 
-# About
+# [Standard Crypto Engineering Take-Home Challenge] (https://standardcrypto.notion.site/Standard-Crypto-Engineering-Take-Home-Challenge-0b1607b9f5e94252bba050a3f0587260)
 <p>
-<a href=https://standardcrypto.notion.site/Standard-Crypto-Engineering-Take-Home-Challenge-0b1607b9f5e94252bba050a3f0587260>
-<div style="font-family: 'Shadows Into Light', cursive; color: Black">Standard Crypto Engineering Take-Home Challenge</div>
-</a>
-</p>
 
 The task is to answer several questions about rates of voter turnout for the community-run governance process of the [Aave](https://aave.com/) protocol. It isn’t expected that you’ll be immediately familiar with all components involved in this question. This exercise is meant to assess both technical ability and ability to develop an introductory level of understanding of new concepts.
 
