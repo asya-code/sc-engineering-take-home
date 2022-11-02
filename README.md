@@ -19,18 +19,17 @@
 - [Getting Started](#getting-started)
   - [Installation](#installation)
   - [Launch your server](#launch-your-server)
-
+- [Answers] (#answers)
 </details>
 
 ---
 
-## About
+# About
 <p>
 <a href=https://standardcrypto.notion.site/Standard-Crypto-Engineering-Take-Home-Challenge-0b1607b9f5e94252bba050a3f0587260>
-<div style="font-family: 'Shadows Into Light', cursive; color: Black">Exercise requirements</div>
+<div style="font-family: 'Shadows Into Light', cursive; color: Black">Standard Crypto Engineering Take-Home Challenge</div>
 </a>
 </p>
-# Standard Crypto Engineering Take-Home Challenge
 
 The task is to answer several questions about rates of voter turnout for the community-run governance process of the [Aave](https://aave.com/) protocol. It isn’t expected that you’ll be immediately familiar with all components involved in this question. This exercise is meant to assess both technical ability and ability to develop an introductory level of understanding of new concepts.
 
@@ -47,7 +46,7 @@ For anything with which you are not familiar, the following high-level glossary 
 
 **Aave**: A notable project within the Ethereum blockchain ecosystem, used by people seeking to lend or to borrow crypto assets. Aave is one of many projects that has elected for a decentralized system of governance, meaning its evolution is partially governed by its Snapshot space, hosted here: [https://snapshot.org/#/aave.eth](https://snapshot.org/#/aave.eth)
 
-# Submission
+### Submission
 
 Please provide either an archive folder or a link to a repository with at least the following:
 
@@ -55,7 +54,7 @@ Please provide either an archive folder or a link to a repository with at least 
 - Your code used in deriving answers to these questions
 - Instructions in README for rerunning your scripts and arriving to your answers
 
-# Notes and Tips
+### Notes and Tips
 
 - If searching for a starting point, try clicking through a few Snapshot proposals in the browser and try to find the same data via queries to the Snapshot API.
 - You may use any languages, libraries, and editors you choose.
@@ -67,6 +66,16 @@ Please provide either an archive folder or a link to a repository with at least 
 - If anything is confusing or unclear, please don’t hesitate to reach out. Parts of this problem are deliberately under-specified, but never meant to leave you stuck.
 
 <br>
+
+# Answers
+1. Top 20 addresses with the highest rates of participation for Aave governance proposals on Snapshot.org for DATE TIME:
+
+Participation rates are:
+
+<br>
+
+2. the University of Pennsylvania blockchain student organization's rate of Snapshot participation for Aave:
+
 
 ## Getting Started
 
