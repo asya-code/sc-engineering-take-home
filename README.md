@@ -24,10 +24,10 @@
 
 ---
 
-# [Standard Crypto Engineering Take-Home Challenge] (https://standardcrypto.notion.site/Standard-Crypto-Engineering-Take-Home-Challenge-0b1607b9f5e94252bba050a3f0587260)
+# Standard Crypto Engineering Take-Home Challenge 
 <p>
 
-The task is to answer several questions about rates of voter turnout for the community-run governance process of the [Aave](https://aave.com/) protocol. It isn’t expected that you’ll be immediately familiar with all components involved in this question. This exercise is meant to assess both technical ability and ability to develop an introductory level of understanding of new concepts.
+The [task] (https://standardcrypto.notion.site/Standard-Crypto-Engineering-Take-Home-Challenge-0b1607b9f5e94252bba050a3f0587260) is to answer several questions about rates of voter turnout for the community-run governance process of the [Aave](https://aave.com/) protocol. It isn’t expected that you’ll be immediately familiar with all components involved in this question. This exercise is meant to assess both technical ability and ability to develop an introductory level of understanding of new concepts.
 
 The questions we want to answer are as follows:
 
