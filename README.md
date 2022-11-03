@@ -16,10 +16,10 @@
 <summary>Table of Contents</summary>
 
 - [Standard Crypto Engineering Take-Home Challenge](#challenge)
+- [Answers] (#answers)
 - [Getting Started](#getting-started)
   - [Installation](#installation)
   - [Launch your server](#launch-your-server)
-- [Answers] (#answers)
 </details>
 
 ---
